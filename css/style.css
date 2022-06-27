@@ -1,0 +1,84 @@
+*{
+  font-family: 'Rubik', sans-serif;
+}
+.center {
+  margin: auto;
+  width: 80%;
+  padding: 10px;
+  text-align: center;
+}
+li{
+  font-size: 20px;
+}
+li a:hover{
+background-color: #19334d;
+
+color: greenyellow;
+}
+span{
+  color: #a4bd97;
+}
+.btn{
+  border: solid;
+}
+.btn:hover{
+background-image: linear-gradient(to right, #a4bd97  , #a4bd97);
+border: none;
+color: #ffffff;
+box-shadow: 5px 5px 10px #999;
+transition: 0.5s;
+}
+.counter
+{
+    background-color: none;
+    text-align: center;
+}
+.cnt
+{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.counter-count
+{
+    font-size: 18px;
+    background-color: #a4bd97;
+    border-radius: 50%;
+    position: relative;
+    color: #ffffff;
+    text-align: center;
+    line-height: 92px;
+    width: 92px;
+    height: 92px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    display: inline-block;
+}
+
+.cnt-p
+{
+    font-size: 24px;
+    color: #000000;
+    line-height: 34px;
+}
+.card{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+padding: 16px;
+text-align: center;
+background-color: #ffffff;
+border-radius: 20px;
+}
+.card-img-top{
+  border-radius: 20px;
+}
+.progress-bar{
+  background-color: #a4bd97;
+}
+.footer{
+  color: white;
+}
+#c{
+  font-size: 20px;
+  text-align: center;
+}
